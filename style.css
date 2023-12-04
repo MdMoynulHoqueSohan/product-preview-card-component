@@ -118,7 +118,7 @@ p {
 }
 
 /* For Laptop and Desktops */
-@media only screen and (min-width: 376px) and (max-width: 1440px) {
+@media only screen and (min-width: 376px) {
     img {
         margin-top: 4px;
         width: 300px;
